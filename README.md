@@ -1,5 +1,7 @@
 # HRM Suite Automation with TestNG
-### This project is an automation test suite for OrangeHRM, a human resource management system, using Selenium and TestNG. The suite includes positive and negative both test cases for various functionalities.
+### This project is an automation test suite for OrangeHRM, a human resource management system, using Selenium and TestNG. The suite includes positive and negative test cases for various functionalities.
+### Test Cases
+https://docs.google.com/spreadsheets/d/1Rx3KBm7UJY9BBOL42Hj3nYj4uoaME5Ry/edit#gid=1630449902
 ## Tools and Technology Used
 - IntelliJ IDEA
 - Selenium Webdriver
